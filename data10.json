@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "fname": "ahmed",
+        "lname": "hamdy",
+        "age": 18,
+        "city": "alex"
+    },
+    {
+        "id": 3,
+        "fname": "rowan",
+        "lname": "hamdy",
+        "age": 22,
+        "city": "mansoura"
+    },
+    {
+        "id": 4,
+        "fname": "hossam",
+        "lname": "mohamed",
+        "age": 20,
+        "city": "fayoum"
+    },
+    {
+        "id": 5,
+        "fname": "asmaa",
+        "lname": "hussin",
+        "age": 30,
+        "city": "tanta"
+    },
+    {
+        "id": 6,
+        "fname": "sama",
+        "lname": "kamal",
+        "age": 25,
+        "city": "damanhour"
+    },
+    {
+        "id": 7,
+        "fname": "aziza",
+        "lname": "abdallah",
+        "age": 26,
+        "city": "banha"
+    },
+    {
+        "id": 8,
+        "fname": "salma",
+        "lname": "marawan",
+        "age": 28,
+        "city": "giza"
+    },
+    {
+        "id": 10,
+        "fname": "walied",
+        "lname": "sabry",
+        "age": 40,
+        "city": "alex"
+    }
+]
